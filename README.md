@@ -1,5 +1,6 @@
 # DukeMTMC-reID_baseline
-Here we provide ResNet-50 baseline training code on DukeMTMC-reID Dataset.
+Here we provide ResNet-50 baseline training code on DukeMTMC-reID Dataset. 
+You can download DukeMTMC-reID in https://github.com/layumi/DukeMTMC-reID_baseline.
 
 ## Installation
 1. Clone this repo
